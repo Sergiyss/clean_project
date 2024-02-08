@@ -6,7 +6,7 @@
     <item
         android:width="140dp"
         android:height="140dp"
-        android:drawable="@drawable/test_image"
+        android:drawable="@drawable/icon_app"
         android:gravity="center">
 
     </item>
